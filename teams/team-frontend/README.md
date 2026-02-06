@@ -1,4 +1,4 @@
-# Glucopilot
+# team-frontend
 
 ## Members
 - Nitin Rao (nsr2144)
