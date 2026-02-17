@@ -35,15 +35,19 @@ Feed your interview snapshots **and** raw interview notes into an LLM (Claude, C
 - What did you notice that the AI didn't?
 - Where do you trust the AI's read? Where don't you?
 
-**Important:** Do Part A **before** Part B. Develop your own read on the data before seeing the AI's.
+**Important:** Part A is the **only part of this assignment you should do without AI.** Do your own synthesis first, written down, before opening any LLM. The whole point is to develop your own read on the data before seeing what the AI thinks.
 
 ### 2. Product Brief
 
 One-page document covering what you're building, who it's for, and what problem it solves. Use the template provided: `classes/20260217_c8w5_tue_synthetic-testing/template_product-brief.md`
 
+**Use AI to help draft this.** Feed your synthesis and interview notes into an LLM and ask it to help you fill out the template. Edit and refine the output — don't just submit raw AI output, but don't do this by hand either.
+
 ### 3. Brand Position
 
 Internal document capturing your brand's thesis, identity, and canonical language. Use the template provided: `classes/20260217_c8w5_tue_synthetic-testing/template_brand-position.md`
+
+**Use AI to help draft this.** Same approach: feed your synthesis into an LLM, use the template as a structure, and refine what it gives you. The brand position builds directly on your synthesis and product brief.
 
 ---
 
